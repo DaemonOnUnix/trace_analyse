@@ -1,0 +1,3 @@
+[submodule "better-qemu"]
+	path = better-qemu
+	url = git@github.com:DaemonOnUnix/better-qemu.git
